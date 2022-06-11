@@ -2,6 +2,7 @@
  *  and humidity readings, then display it on the
  *  4 digit 7 segment.
  * 
+ * Datasheet: https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf
  */
 
 
