@@ -15,7 +15,7 @@
  *              
  * Datasheet: https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf
  * 
- * Created on 9 June 2022 by arazak467
+ * Created on 9 June 2022 by c010rblind3ngineer
  */
 
 
